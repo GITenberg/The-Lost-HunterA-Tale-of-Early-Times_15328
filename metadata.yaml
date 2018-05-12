@@ -1,0 +1,30 @@
+_repo: The-Lost-HunterA-Tale-of-Early-Times_15328
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Adams, John Turvill
+    birthdate: 1805
+    deathdate: 1882
+    gutenberg_agent_id: '6000'
+    url: http://www.gutenberg.org/2009/agents/6000
+description: ''
+gutenberg_issued: '2005-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15328'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New England -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Indians of North America -- Fiction'
+- !lcc 'PS'
+title: 'The Lost Hunter
+
+  A Tale of Early Times'
+url: http://www.gutenberg.org/ebooks/15328
